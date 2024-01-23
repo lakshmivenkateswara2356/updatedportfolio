@@ -94,12 +94,12 @@ flex-direction: row;
    
     font-family: caveat;
     text-align: center;
-    color: white;
+    color: rgb(236, 188, 224);
 }
 
 .aboutHobiesMy:hover {
     font-family: caveat;
-    background-color: rgb(236, 188, 224);;
+    background-color: rgb(236, 188, 224);
     color: black;
 }
 
