@@ -50,7 +50,7 @@ const Projects =() => (
     </div>
     <div className='paddingThe'>
     
-    <button className='resumedownloadbutt'>Download CV </button><span className='emoJProGor'>👈🏻</span>
+    <button   className='btn resumedownloadbutt'>Download CV </button><span className='emoJProGor'>👈🏻</span>
     </div>
     </div>
     

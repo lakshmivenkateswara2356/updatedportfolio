@@ -1,9 +1,8 @@
 import './index.css'
 import React from 'react'
-import { Accessibility,Linkedin, Mail,Github, CircleUserRound } from 'lucide-react'
+import { Linkedin, Mail,Github, CircleUserRound } from 'lucide-react'
 
-import { faEnvelope,faWhatsapp} from '@fortawesome/free-solid-svg-icons'
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+
 
 
 const Contact = () => (
