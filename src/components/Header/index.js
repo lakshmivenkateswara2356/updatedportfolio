@@ -10,6 +10,7 @@ const Header = () => (
         <h1 className='headerCoala'>🦥</h1>
 <p >
     
+    
         <Link to='/' className='homeHedi'>Home</Link>
         </p>
         <p >
