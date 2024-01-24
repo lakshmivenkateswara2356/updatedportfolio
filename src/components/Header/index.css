@@ -11,9 +11,8 @@
     font-size: 5px;
     color: white;
 }
-.hedd {
-    color:green;
-}
+
+
 .arrangeItem{
     display: flex;
     flex-direction:row;
