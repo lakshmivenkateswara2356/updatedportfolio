@@ -1,18 +1,26 @@
 import './index.css'
 
+
+
 const Home = () => (
     
 
     <div className="coveredf">
+      
         <div className='settin'>
         <h1 className='homeHiedd'>Hi</h1>
+        
         <h1 className='jjko'>👋</h1>
         </div>
         <h1 className='personlWebsite'>Welcome to my portfolio</h1>
       <h1 className='homeIamDev'><span className='helloSSpan'>HELLO </span>It's me  <span className="hilatedname">Venkateswara</span> 😎 🤖</h1>
       <p className='homeDeveaddexta'>I am a professionsl web developer</p>
       <h1 className='homeExpertise'>Expertise in <span className="emojiinsertedHomd"> 🧑🏻‍💻</span></h1>
+      <div className="totalscroll">
+          <marquee> <span className="metrocontainer">🚝</span>HTML , CSS ,JAVASCRIPT , NODEJS ,SQL ,FIGMA , GTI , JIRA , VUEJS , EXPRESSJS </marquee>
+        </div>
       <div className='aligningTheHomeRe'>
+      
       <div class="wraper">
         
         <ul class="dynamic-txts">
@@ -25,7 +33,7 @@ const Home = () => (
     </div>
     <div className='paddingThe'>
     
-    <button className='resumedownloadbutt1'>Download CV </button><span className='emoJProGor'>👈🏻</span>
+    <button className='resumedownloadbutt1' herf="https://drive.google.com/file/d/1qKzNDnkfmZGmABZEpyGiZsCW-o-NjxCQ/view?usp=sharing">Download CV </button><span className='emoJProGor'>👈🏻</span>
     </div>
     </div>
 

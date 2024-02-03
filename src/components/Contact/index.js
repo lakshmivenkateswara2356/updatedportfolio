@@ -1,6 +1,6 @@
 import './index.css'
 import React from 'react'
-import { Linkedin, Mail,Github, CircleUserRound } from 'lucide-react'
+import { Linkedin, Mail,Github, CircleUserRound, } from 'lucide-react'
 
 
 
@@ -29,6 +29,26 @@ const Contact = () => (
        
         
         <div className='contactFooterelement'>
+        <div className="contactContainerEle">
+        <div className='ContactVasuAlignee'>
+            <a href="mailto:lakshmivenkateswarapunnam@gmail.com" className='contactGmail1ee'>
+            <Mail />
+        </a>
+        </div>
+        <div className='ContactVasuAlignee'>
+       <a href='https://web.whatsapp.com/' > <CircleUserRound className='contactGmail1ee'/> </a>
+       </div>
+       
+       <div className='ContactVasuAlignee'> 
+       <a href=" https://www.linkedin.com/in/p-lakshmi-venkateswara-144510236/"><Linkedin className='contactGmail1ee' /></a>
+       </div>
+       <div className='ContactVasuAlignee'>
+       <a href="https://github.com/lakshmivenkateswara2356"><Github className='contactGmail1ee' /></a>
+       </div>
+       
+       </div>
+
+
           <h1 className='sectonfootele'>About</h1>
           <p className='minuteDerAa'>ph : +91 7842802368</p>
           <p className='minuteDerAa'>Gmail : lakshmivenkateswarapunnam@gmail.com</p>

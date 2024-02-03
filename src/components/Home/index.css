@@ -1,11 +1,9 @@
-.nameele {
-    font-family:roboto;
-}
+
 .hilatedname {
     color:#66e0ff;
     font-family: caveat;
     font-size: 45px;
-    box-shadow: 10px 10px 20px rgba(13, 166, 226, 0.5);
+    filter:drop-shadow( 10px 10px 20px rgba(13, 166, 226, 0.5));
     border-top-right-radius: 42px;
 }
 .hilatedname:hover{
@@ -37,7 +35,7 @@
 flex-direction: row;
   }
   .coveredf {
-    height:130vh;
+    height:135vh;
     width: 100vw;
     background-size: cover;
     background-color: #1f1f38;
@@ -81,29 +79,8 @@ flex-direction: row;
     font-size:43px;
     margin-left:24px;
   }
-  .emojiApplix {
-    animation: shakin 1s  infinite;
-    font-size: 5em;
-}
-@keyframes shakin {
-    0%, 100% {
-      transform: rotate(10deg);
-    }
-    25% {
-      transform: rotate(10deg);
-    }
-    50% {
-      transform: rotate(1deg);
-    }
-    75% {
-      transform: rotate(10deg);
-    }
-  }
-  .takingtheasdi {
-    display: flex;
-    flex-direction: row;
-   
-  }
+  
+ 
   .homeDeveaddexta {
     text-align:center;
     font-family:roboto;
@@ -121,6 +98,14 @@ flex-direction: row;
     color: #eb4034;
     font-size:52px
   }
+
+  .helloSSpan:hover {
+    color: #eb4034;
+    font-size:52px;
+    filter:drop-shadow( 10px 10px 20px rgba(2500, 50, 50, 30.695));
+  }
+
+
 .body{
    display:flex;
    align-items: center;
@@ -188,7 +173,7 @@ flex-direction: row;
 }
 .emojiinsertedHomd:hover {
   
-  box-shadow: 10px 10px 20px rgba(5, 200, 239, 0.5);
+  filter:drop-shadow( 10px 10px 20px rgba(5, 200, 239, 0.5));
 }
 
 .aligningTheHomeRe {
@@ -220,4 +205,15 @@ flex-direction: row;
   border-color: aqua;
 }
 
+.totalscroll {
+  color:bisque;
+}
+.totalscroll:hover {
+  color:bisque;
+  filter:drop-shadow( 10px 10px 20px rgba(5, 173, 239, 0.962));
+}
 
+
+.metrocontainer{
+  font-size:3rem;
+}

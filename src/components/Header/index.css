@@ -33,13 +33,13 @@
     color:white;
 }
 .venkateswarawsd{
-    padding-right: 693px;
-    
+   
+    padding-right: 370px;
     font-size: 14px;
     margin-right: 28px;
 }
 .venkateswarawsd:hover{
-    padding-right: 693px;
+    
    color: aqua; 
     font-size: 14px;
     margin-right: 28px;
@@ -48,4 +48,5 @@
 .headerCoala{
     font-size: 4rem;
     margin-top: 16px;
+
 }

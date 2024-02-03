@@ -1,5 +1,5 @@
 .contactContai {
-    height:100vh;
+    height:118vh;
     width: 100vw;
     background-color:#1f1f38;
     padding-top: 1px;
@@ -43,7 +43,7 @@
 }
 .contactFooterelement{
     background-color: aqua;
-    height: 30vh;
+    height: 50vh;
     width: 100vw;
     color: black;
     margin-top: 100px;
@@ -103,4 +103,46 @@
 }
 .contz{
     font-weight: 100;
+}
+.contactContainerEle {
+    display: flex;
+    flex-direction: row;
+    justify-content:flex-end;
+
+}
+.ContactVasuAlignee {
+    background-color:#0ceaea;
+    width: 28px;
+    height: 24px;
+    margin-left: 22px;
+    text-align: center;
+    padding-top: 4px;
+    border-radius: 8px;
+    border-style: solid;
+    color: rgb(18, 17, 17);
+    border-width: 1px;
+    margin-top: 12px;
+    
+}
+.ContactVasuAlignee:hover {
+    background-color:#1f1f38;
+    width: 28px;
+    height: 24px;
+    margin-left: 22px;
+    text-align: center;
+    padding-top: 4px;
+    border-radius: 8px;
+    border-style: solid;
+    color:white;
+    border-width: 1px;
+    box-shadow: 10px 10px 20px rgba(10, 10, 10, 0.5);
+    
+}
+.contactGmail1ee{
+    color: rgb(13, 13, 12); 
+    
+}
+.contactGmail1ee:hover{
+    color:white;  
+    
 }
