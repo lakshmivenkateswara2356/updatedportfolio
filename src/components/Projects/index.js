@@ -50,7 +50,7 @@ const Projects =() => (
     </div>
     <div className='paddingThe'>
     
-    <button   className='btn resumedownloadbutt'>Download CV </button><span className='emoJProGor'>👈🏻</span>
+    <a className='btn resumedownloadbutt' href="https://drive.google.com/file/d/1qKzNDnkfmZGmABZEpyGiZsCW-o-NjxCQ/view?usp=sharing">Download CV </a><span className='emoJProGor'>👈🏻</span>
     </div>
     </div>
     

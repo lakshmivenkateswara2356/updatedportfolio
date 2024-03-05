@@ -16,7 +16,7 @@ const Contact = () => (
         </a>
         </div>
         <div className='ContactVasuAlign'>
-       <a href='https://web.whatsapp.com/' > <CircleUserRound className='contactGmail1'/> </a>
+       <a href='https://web.whatsapp.com/7842802368' > <CircleUserRound className='contactGmail1'/> </a>
        </div>
        <div>
        <div className='ContactVasuAlign'> 
@@ -28,7 +28,7 @@ const Contact = () => (
        </div>
        
         
-        <div className='contactFooterelement'>
+        <div className='contactFooterelement'> 
         <div className="contactContainerEle">
         <div className='ContactVasuAlignee'>
             <a href="mailto:lakshmivenkateswarapunnam@gmail.com" className='contactGmail1ee'>
@@ -36,7 +36,7 @@ const Contact = () => (
         </a>
         </div>
         <div className='ContactVasuAlignee'>
-       <a href='https://web.whatsapp.com/' > <CircleUserRound className='contactGmail1ee'/> </a>
+       <a href='https://web.whatsapp.com+91 7842802368/' > <CircleUserRound className='contactGmail1ee'/> </a>
        </div>
        
        <div className='ContactVasuAlignee'> 

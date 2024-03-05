@@ -33,7 +33,7 @@ const Home = () => (
     </div>
     <div className='paddingThe'>
     
-    <button className='resumedownloadbutt1' herf="https://drive.google.com/file/d/1qKzNDnkfmZGmABZEpyGiZsCW-o-NjxCQ/view?usp=sharing">Download CV </button><span className='emoJProGor'>👈🏻</span>
+    <a className='resumedownloadbutt1' href="https://drive.google.com/file/d/1qKzNDnkfmZGmABZEpyGiZsCW-o-NjxCQ/view?usp=sharing">Download CV </a><span className='emoJProGor'>👈🏻</span>
     </div>
     </div>
 
